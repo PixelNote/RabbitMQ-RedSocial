@@ -4,3 +4,8 @@ Ejemplo de red social usando API Rest y  RabbitMQ.
 *	El microservicio de lista de usuarios actualiza el estado del usuario enviando a través de rabbitMQ.
 *	El microservicio de notificación muestra la notificación de inicio de sesión si el usuario está en la categoría de favoritos. 
 
+##  Integrantes
+* Daniela Alejandra Puerto
+* Yeyson Esteban Pulido
+* Andrés Felipe Jiménez
+
